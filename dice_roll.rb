@@ -2,13 +2,13 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-# def roll
-#   return (rand(1..6)).to_i
-# end
-
-def roll 
-  return 1+ rand(6)
+def roll
+  return (rand(1..6)).to_i
 end
+
+# def roll 
+#   return 1+ rand(6)
+# end
 
 # def roll
 #   my_array = [1,2,3,4,5,6]
