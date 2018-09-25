@@ -11,6 +11,6 @@
 # end
 
 def roll
-  my_array = [2,3,4,5,6,7]
-  return rand(my_array.length)
+  my_array = [1,2,3,4,5,6]
+  return my_array(my_array.length)
 end
