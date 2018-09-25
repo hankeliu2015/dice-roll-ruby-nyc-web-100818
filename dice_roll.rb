@@ -9,3 +9,7 @@
 # def roll 
 #   return 1+ rand(6)
 # end
+
+def roll
+  array = [2,3,4,5,6,7]
+  return rand()
