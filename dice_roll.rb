@@ -6,11 +6,11 @@
 #   return (rand(1..6)).to_i
 # end
 
-# def roll 
-#   return 1+ rand(6)
-# end
-
-def roll
-  my_array = [1,2,3,4,5,6]
-  return my_array[rand(my_array.length)]
+def roll 
+  return 1+ rand(6)
 end
+
+# def roll
+#   my_array = [1,2,3,4,5,6]
+#   return my_array[rand(my_array.length)]
+# end
