@@ -6,6 +6,6 @@
 #   return (rand(1..6)).to_i
 # end
 
-def roll 
-  return 1+ rand(6)
-end
+# def roll 
+#   return 1+ rand(6)
+# end
